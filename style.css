@@ -815,7 +815,7 @@
         .now-playing-header {
             display: flex;
             justify-content:center;
-            /* align-items: center; */
+            align-items: center;
             margin-bottom: 3rem;
             margin-left: -2%;
             gap: 1rem;
