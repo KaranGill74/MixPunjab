@@ -820,7 +820,9 @@
             margin-left: -2%;
             gap: 1rem;
         }
-        
+        .now-playing-header h2{
+            margin-top: -5px;
+        }
         .now-playing-content {
             display: flex;
             flex-direction: column;
@@ -898,7 +900,7 @@
         }
 
         .play-pause-btn-full {
-            background: var(--primary-color);
+            /* background: var(--primary-color); */
             color: white;
             font-size: 2rem;
             width: 70px;
