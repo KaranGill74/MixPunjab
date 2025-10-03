@@ -140,7 +140,146 @@ const musicData = [
         image: "img/20.jpg",
         src: "audio/20.mp3"
     },
-
+     {
+        id: 21,
+        title: "Unbothered",
+        artist: "Navaan Sandhu",
+        image: "img/21.jpg",
+        src: "audio/21.mp3"
+    },
+    {
+        id: 22,
+        title: "Red Battiyan",
+        artist: "R Nait",
+        image: "img/22.jpg",
+        src: "audio/22.mp3"
+    },
+    {
+        id: 23,
+        title: "Brown Munde",
+        artist: "AP Dhillon",
+        image: "img/23.jpg",
+        src: "audio/23.mp3"
+    },
+    {
+        id: 24,
+        title: "Fuck Em All",
+        artist: "Sidhu Moose Wala",
+        image: "img/24.jpg",
+        src: "audio/24.mp3"
+    },
+    {
+        id: 25,
+        title: "Case",
+        artist: "Diljit Dosanjh",
+        image: "img/25.jpg",
+        src: "audio/25.mp3"
+    },
+    {
+        id: 26,
+        title: "Scapegoat",
+        artist: "Sidhu Moose Wala",
+        image: "img/26.jpg",
+        src: "audio/26.mp3"
+    },
+    {
+        id: 27,
+        title: "Never Fold",
+        artist: "Sidhu Moose Wala",
+        image: "img/27.jpg",
+        src: "audio/27.mp3"
+    },
+    {
+        id: 28,
+        title: "Chote Chote Ghar",
+        artist: "Ranjit Bawa",
+        image: "img/28.jpg",
+        src: "audio/28.mp3"
+    },
+    {
+        id: 29,
+        title: "Pendu",
+        artist: "Amrinder Gill",
+        image: "img/29.jpg",
+        src: "audio/29.mp3"
+    },
+    {
+        id: 30,
+        title: "Kaun Kuri",
+        artist: "KS Makhan",
+        image: "img/30.jpg",
+        src: "audio/30.mp3"
+    },
+    {
+        id: 31,
+        title: "Good Luck Charm",
+        artist: "KS Makhan",
+        image: "img/31.jpg",
+        src: "audio/31.mp3"
+    },
+    {
+        id: 32,
+        title: "Bachke Bachke",
+        artist: "Karan Aujla",
+        image: "img/32.jpg",
+        src: "audio/32.mp3"
+    },
+    {
+        id: 33,
+        title: "Love Sick",
+        artist: "Sidhu Moose Wala",
+        image: "img/33.jpg",
+        src: "audio/33.mp3"
+    },
+    {
+        id: 34,
+        title: "Jatt Life",
+        artist: "Varinder Brar",
+        image: "img/34.jpg",
+        src: "audio/34.mp3"
+    },
+    {
+        id: 35,
+        title: "Foreigns",
+        artist: "AP Dhillion",
+        image: "img/35.jpg",
+        src: "audio/35.mp3"
+    },
+    {
+        id: 36,
+        title: "Built Different",
+        artist: "Sidhu Moose Wala",
+        image: "img/36.jpg",
+        src: "audio/36.mp3"
+    },
+    {
+        id: 37,
+        title: "Racks And Rounds",
+        artist: "Sidhu Moose Wala",
+        image: "img/37.jpg",
+        src: "audio/37.mp3"
+    },
+    {
+        id: 38,
+        title: "Goat",
+        artist: "AP Dhillion",
+        image: "img/38.jpg",
+        src: "audio/38.mp3"
+    },
+    {
+        id: 39,
+        title: "Jaguar",
+        artist: "Bohemia",
+        image: "img/39.webp",
+        src: "audio/39.mp3"
+    },
+    {
+        id: 40,
+        title: "Car Nachdi",
+        artist: "Gippy Grewal",
+        image: "img/40.jpg",
+        src: "audio/40.mp3"
+    },
 
 
 ];
