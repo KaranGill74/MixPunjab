@@ -280,7 +280,76 @@ const musicData = [
         image: "img/40.jpg",
         src: "audio/40.mp3"
     },
-
+    {
+        id: 41,
+        title: "I M Better Now",
+        artist: "Sidhu Moose Wala",
+        image: "img/41.jpg",
+        src: "audio/41.mp3"
+    },
+    {
+        id: 42,
+        title: "Same Beef",
+        artist: "Sidhu Moose Wala",
+        image: "img/42.jpg",
+        src: "audio/42.mp3"
+    },
+    {
+        id: 43,
+        title: "Pagol",
+        artist: "Deep Jandu",
+        image: "img/43.jpg",
+        src: "audio/43.mp3"
+    },
+    {
+        id: 44,
+        title: "2 Number",
+        artist: "Aminder Gill",
+        image: "img/44.jpg",
+        src: "audio/44.mp3"
+    },
+    {
+        id: 45,
+        title: "Challenge",
+        artist: "Ninja",
+        image: "img/45.jpg",
+        src: "audio/45.mp3"
+    },
+    {
+        id: 46,
+        title: "Paapi",
+        artist: "Sidhu Moose Wala",
+        image: "img/46.jpg",
+        src: "audio/46.mp3"
+    },
+    {
+        id: 47,
+        title: "Emotional Banda",
+        artist: "Ranjit Bawa",
+        image: "img/47.jpg",
+        src: "audio/47.mp3"
+    },
+    {
+        id: 48,
+        title: "Sohne Mukhde Da",
+        artist: "Sharry Mann",
+        image: "img/48.jpg",
+        src: "audio/48.mp3"
+    },
+    {
+        id: 49,
+        title: "Fight",
+        artist: "KS Makhan",
+        image: "img/49.webp",
+        src: "audio/49.mp3"
+    },
+    {
+        id: 50,
+        title: "Dildarian",
+        artist: "Aminder Gill",
+        image: "img/50.jpg",
+        src: "audio/50.mp3"
+    },
 
 ];
 
