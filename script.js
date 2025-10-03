@@ -1200,19 +1200,24 @@ function applyEQPreset(preset) {
 
 // Search Functionality
 document.getElementById('searchInput').addEventListener('input', function (e) {
-    const searchTerm = e.target.value.toLowerCase();
+    const searchTerm = e.target.value.toLowerCase().trim();
 
-    if (searchTerm === '') {
+    if (!searchTerm) {
         renderMusicGrid(musicData);
     } else {
-        const filtered = musicData.filter(track =>
-            track.title.toLowerCase().includes(searchTerm) ||
-            track.artist.toLowerCase().includes(searchTerm) ||
-            track.album.toLowerCase().includes(searchTerm)
-        );
+        const filtered = musicData.filter(track => {
+            const title = track.title ? track.title.toLowerCase() : '';
+            const artist = track.artist ? track.artist.toLowerCase() : '';
+            const album = track.album ? track.album.toLowerCase() : '';
+
+            return title.includes(searchTerm) ||
+                   artist.includes(searchTerm) ||
+                   album.includes(searchTerm);
+        });
         renderMusicGrid(filtered);
     }
 });
+
 
 // Show Toast
 function showToast(message) {
