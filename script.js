@@ -490,6 +490,154 @@ const musicData = [
         src: "audio/70.mp3",
         image: "img/70.jpg"
     },
+    
+    {
+        id: 71,
+        title: "Jordan",
+        artist: "A-Key",
+        src: "audio/71.mp3",
+        image: "img/71.jpg"
+    },
+    {
+        id: 72,
+        title: "Bass Baliye",
+        artist: "Gurj Sidhu",
+        src: "audio/72.mp3",
+        image: "img/72.jpg"
+    },
+    {
+        id: 73,
+        title: "Dil Yaaran De",
+        artist: "Gurj Sidhu",
+        src: "audio/73.mp3",
+        image: "img/73.jpg"
+    },
+    {
+        id: 74,
+        title: "Kaali Range",
+        artist: "R Nait",
+        src: "audio/74.mp3",
+        image: "img/74.jpg"
+    },
+    {
+        id: 75,
+        title: "Adha Pind",
+        artist: "Gurj Sidhu",
+        src: "audio/75.mp3",
+        image: "img/75.jpg"
+    },
+    {
+        id: 76,
+        title: "Flop",
+        artist: "Sidhu Moose Wala",
+        src: "audio/76.mp3",
+        image: "img/76.jpg"
+    },
+    {
+        id: 77,
+        title: "Tru Talk",
+        artist: "Jassi Gill",
+        src: "audio/77.mp3",
+        image: "img/77.jpg"
+    },
+    {
+        id: 78,
+        title: "Litt Lyf",
+        artist: "Babble Rai",
+        src: "audio/78.mp3",
+        image: "img/78.jpg"
+    },
+    {
+        id: 79,
+        title: "By God",
+        artist: "B Jay Randhawa",
+        src: "audio/79.mp3",
+        image: "img/79.webp"
+    },
+    {
+        id: 80,
+        title: "Fuel",
+        artist: "Gippy Grewal",
+        src: "audio/80.mp3",
+        image: "img/80.jpg"
+    },
+    {
+        id: 81,
+        title: "Raatan",
+        artist: "Amrinder Gill",
+        src: "audio/81.mp3",
+        image: "img/81.webp"
+    },
+    {
+        id: 82,
+        title: "Hauli Hauli",
+        artist: "Sidhu Moose Wala",
+        src: "audio/82.mp3",
+        image: "img/82.jpg"
+    },
+    {
+        id: 83,
+        title: "Kaa Bole Banere Te",
+        artist: "A-Key",
+        src: "audio/83.mp3",
+        image: "img/83.jpg"
+    },
+    {
+        id: 84,
+        title: "Sahan Ton Nere",
+        artist: "Amrinder Gill",
+        src: "audio/84.mp3",
+        image: "img/84.jpg"
+    },
+    {
+        id: 85,
+        title: "Mitti Di Khushboo",
+        artist: "Ayushmann Khurrana",
+        src: "audio/85.mp3",
+        image: "img/85.jpg"
+    },
+    {
+        id: 86,
+        title: "Yaari",
+        artist: "Maninder Butter",
+        src: "audio/86.mp3",
+        image: "img/86.jpg"
+    },
+    {
+        id: 87,
+        title: "Ehna Hanjuyan",
+        artist: "Kaler Kanth",
+        src: "audio/87.mp3",
+        image: "img/87.jpg"
+    },
+    {
+        id: 88,
+        title: "Insomnia",
+        artist: "Sippy Gill",
+        src: "audio/88.mp3",
+        image: "img/88.webp"
+    },
+    {
+        id: 89,
+        title: "Forget About It",
+        artist: "Sidhu Moose Wala",
+        src: "audio/89.mp3",
+        image: "img/89.webp"
+    },
+    {
+        id: 90,
+        title: "Sidhu Anthem",
+        artist: "Sidhu Moose Wala",
+        src: "audio/90.mp3",
+        image: "img/90.jpg"
+    },
+    {
+        id: 91,
+        title: "Rang Sanwla",
+        artist: "Aarsh Benipal",
+        src: "audio/91.mp3",
+        image: "img/91.jpg"
+    }
 ];
 
 
