@@ -637,7 +637,28 @@ const musicData = [
         artist: "Aarsh Benipal",
         src: "audio/91.mp3",
         image: "img/91.jpg"
-    }
+    },
+    {
+        id: 92,
+        title: "Racks And Rounds",
+        artist: "Sidhu Moose Wala",
+        src: "audio/92.mp3",
+        image: "img/92.jpg"
+    },
+    {
+        id: 93,
+        title: "Supna",
+        artist: "Amrinder Gill",
+        src: "audio/93.mp3",
+        image: "img/93.jpg"
+    },
+    {
+        id: 94,
+        title: "Channa",
+        artist: "Gippy Grewal",
+        src: "audio/94.mp3",
+        image: "img/94.jpg"
+    },
 ];
 
 
