@@ -350,7 +350,146 @@ const musicData = [
         image: "img/50.jpg",
         src: "audio/50.mp3"
     },
-
+    {
+        id: 51,
+        title: "Meri Zindgi Bana Ja",
+        artist: "Sharry Mann",
+        image: "img/51.webp",
+        src: "audio/51.mp3"
+    },
+    {
+        id: 52,
+        title: "Sohni Kuri",
+        artist: "Amrinder Gill",
+        image: "img/52.webp",
+        src: "audio/52.mp3"
+    },
+    {
+        id: 53,
+        title: "Changa Mada Time",
+        artist: "A-kay",
+        image: "img/53.jpg",
+        src: "audio/53.mp3"
+    },
+    {
+        id: 54,
+        title: "Guerrilla War",
+        artist: "Amrit Maan",
+        image: "img/54.jpg",
+        src: "audio/54.mp3"
+    },
+    {
+        id: 55,
+        title: "Gabbroo",
+        artist: "Jassi Gill",
+        image: "img/55.jpg",
+        src: "audio/55.mp3"
+    },
+    {
+        id: 56,
+        title: "Dil Tutda",
+        artist: "Jassi Gill",
+        image: "img/56.jpg",
+        src: "audio/56.mp3"
+    },
+    {
+        id: 57,
+        title: "Lahore",
+        artist: "Ranjit Bawa",
+        image: "img/57.jpg",
+        src: "audio/57.mp3"
+    },
+    {
+        id: 58,
+        title: "Guitar Sikhda",
+        artist: "Jassi Gill",
+        image: "img/58.jpg",
+        src: "audio/58.mp3"
+    },
+    {
+        id: 59,
+        title: "Yaarian",
+        artist: "Amrinder Gill",
+        image: "img/59.jpg",
+        src: "audio/59.mp3"
+    },
+    {
+        id: 60,
+        title: "Aroma",
+        artist: "Sidhu Moose Wala",
+        image: "img/60.jpg",
+        src: "audio/60.mp3"
+    },
+    {
+        id: 61,
+        title: "Saahan Nu Suroor",
+        artist: "Feroz Khan",
+        image: "img/61.jpg",
+        src: "audio/61.mp3"
+    },
+    {
+        id: 62,
+        title: "Peshi",
+        artist: "Zora Randhawa",
+        image: "img/62.jpg",
+        src: "audio/62.mp3"
+    },
+    {
+        id: 63,
+        title: "Diary",
+        artist: "Amrinder Gill",
+        image: "img/63.jpg",
+        src: "audio/63.mp3"
+    },
+    {
+        id: 64,
+        title: "Dil Da Dimaag",
+        artist: "Sharry Maan",
+        src: "audio/64.mp3",
+        image: "img/64.jpg"
+    },
+    {
+        id: 65,
+        title: "Sher-E-Panjab",
+        artist: "Arjan Dhillon",
+        src: "audio/65.mp3",
+        image: "img/65.jpg"
+    },
+    {
+        id: 66,
+        title: "Oh Kyu Ni Jaan Ske",
+        artist: "Ninja",
+        src: "audio/66.mp3",
+        image: "img/66.jpg"
+    },
+    {
+        id: 67,
+        title: "Loud Jatt",
+        artist: "Garrie Dhaliwal",
+        src: "audio/67.mp3",
+        image: "img/67.jpg"
+    },
+    {
+        id: 68,
+        title: "Police",
+        artist: "Cheema Y",
+        src: "audio/68.mp3",
+        image: "img/68.jpg"
+    },
+    {
+        id: 69,
+        title: "Vaaj",
+        artist: "Kanwar Grewal",
+        src: "audio/69.mp3",
+        image: "img/69.jpg"
+    },
+    {
+        id: 70,
+        title: "Big Scene",
+        artist: "Diljit Dosanjh",
+        src: "audio/70.mp3",
+        image: "img/70.jpg"
+    },
 ];
 
 
