@@ -664,7 +664,7 @@ const musicData = [
         title: "Naar",
         artist: "Babbu Maan",
         src: "audio/95.mp3",
-        image: "img/95.webp"
+        image: "img/95.jpg"
     },
 ];
 
