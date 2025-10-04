@@ -643,7 +643,7 @@ const musicData = [
         title: "Racks And Rounds",
         artist: "Sidhu Moose Wala",
         src: "audio/92.mp3",
-        image: "img/92.jpg"
+        image: "img/92.webp"
     },
     {
         id: 93,
