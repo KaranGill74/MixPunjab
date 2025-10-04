@@ -657,7 +657,7 @@ const musicData = [
         title: "Channa",
         artist: "Gippy Grewal",
         src: "audio/94.mp3",
-        image: "img/94.jpg"
+        image: "img/94.webp"
     },
 ];
 
